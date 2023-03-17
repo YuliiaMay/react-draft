@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iq-demo/static/css/main.54b8bcfe.css",
+    "main.js": "/iq-demo/static/js/main.60d7d5ea.js",
+    "index.html": "/iq-demo/index.html",
+    "main.54b8bcfe.css.map": "/iq-demo/static/css/main.54b8bcfe.css.map",
+    "main.60d7d5ea.js.map": "/iq-demo/static/js/main.60d7d5ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54b8bcfe.css",
+    "static/js/main.60d7d5ea.js"
+  ]
+}
